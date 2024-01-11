@@ -1,0 +1,1 @@
+const outlet=document.getElementById("outlet");function mesGroupsActive(){document.getElementById("aside").classList.toggle("aside-active")}outlet&&outlet.addEventListener("click",mesGroupsActive);
